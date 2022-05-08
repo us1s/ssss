@@ -1,5 +1,5 @@
 ---
-layout: blog
-title: Projects
+layout: project
+title: blog
 ---
 
