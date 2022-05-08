@@ -45,7 +45,7 @@ author-name: us1s
 # URL for the Image of the Author
 author-image: /assets/images/userimg.jpg
 # 60 Words About the Author
-author-about: ISO/IEC27001 내부심사원 자격-21.10 <br> 정보보안산업기사-21.06
+author-about:       ISO/IEC27001 내부심사원-21.10<br>       정보보안산업기사-21.06
 #MID : web hacking, C, Python, Linux  LOW : powershell script, shell script, batch script, bootstrap, mysql, mongodb, ASA, paloalto, sniper IPS, pandas, reversing, php, html, css, ML, docker
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://t.me/hojjijji
