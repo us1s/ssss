@@ -1,7 +1,7 @@
 ---
 title: Security Script Tool
 layout: post
-post-image: "/assets/images/pj1"
+post-image: "/assets/images/pj1.png"
 description: Linux 보안 점검 자동화 툴
 tags:
 - ShellScript
