@@ -1,12 +1,12 @@
 - name: 자격증
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   #link:
-  description: 2021.10 : ISO/IEC27001 내부심사원 자격증<br>2021.06 : 정보보안 산업기사
+  description: 2021.10. ISO/IEC27001 내부심사원 자격증<br>2021.06. 정보보안 산업기사
   
 - name: 수료
   #link:
   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
-  description: 2022. 04 : ISMS-P 제도이해/구축운영 수료<br>2021. 09 : 웹 취약점 분석 및 모의해킹 수료 <br> 2021. 08 : 23회 해킹캠프 수료 2021. 08 : 정보보호제품군 실습훈련(중급) 수료<br>2021. 06 : 정보보호제품군 실습훈련(초급) 수료
+  description: 2022. 04. ISMS-P 제도이해/구축운영 수료<br>2021. 09. 웹 취약점 분석 및 모의해킹 수료 <br> 2021. 08. 23회 해킹캠프 수료<br>2021. 08. 정보보호제품군 실습훈련(중급) 수료<br>2021. 06. 정보보호제품군 실습훈련(초급) 수료
   
 - name: 학력
   link: 
@@ -15,8 +15,8 @@
 - name: 교내활동
   link:
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  description: 2021. 12 : 2021 Capstone Design 1위<br>2021. 10 : Y.CTF 문제 출제위원<br>2021. 10 : 2021 YNC 창업경진대회 장려상<br>2020. 10 : Y.CTF 최우수상<br>2019. 11 : Y.CTF 장려상 <br> 
+  description: 2021. 12. 2021 Capstone Design 1위<br>2021. 10. Y.CTF 문제 출제위원<br>2021. 10. 2021 YNC 창업경진대회 장려상<br>2020. 10. Y.CTF 최우수상<br>2019. 11. Y.CTF 장려상 <br> 
 - name: 대외활동
   link:
   image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
-  description: 2021. 08 : 23회 해킹캠프 CTF 3위<br>2021. 07 : 제2회 KOSPO 웹서비스 정보보안 경진대회 입상<br>2019. 10 : 에너지X해커톤 한국인터넷진흥원장 장려상
+  description: 2021. 08. 23회 해킹캠프 CTF 3위<br>2021. 07. 제2회 KOSPO 웹서비스 정보보안 경진대회 입상<br>2019. 10. 에너지X해커톤 한국인터넷진흥원장 장려상
