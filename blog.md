@@ -1,5 +1,5 @@
 ---
 layout: project
-title: blog
+title: Archive
 ---
 
