@@ -45,8 +45,9 @@ author-name: us1s
 # URL for the Image of the Author
 author-image: /assets/images/userimg.jpg
 # 60 Words About the Author
-author-about:       ISO/IEC27001 내부심사원-21.10<br>       정보보안산업기사-21.06
-#MID : web hacking, C, Python, Linux  LOW : powershell script, shell script, batch script, bootstrap, mysql, mongodb, ASA, paloalto, sniper IPS, pandas, reversing, php, html, css, ML, docker
+author-about: HIGH :<br>MID : web_hacking, C, Python,Linux<br>LOW : powershell_script, shell_script, batch_script, bootstrap, mysql, mongodb, ASA, paloalto, sniper_IPS, reversing, php, html/css, ML(jupyter/Pandas/Scikit_learn), docker
+#ISO/IEC27001 내부심사원-21.10<br>정보보안산업기사-21.06<br><br>에너지x해커톤 한국인터넷진흥원장 장려상<br> 
+
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://t.me/hojjijji
 
