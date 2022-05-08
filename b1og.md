@@ -1,5 +1,5 @@
 ---
-layout: 6109
+layout: blog
 title: Projects
 ---
 
