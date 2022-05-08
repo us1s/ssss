@@ -24,6 +24,8 @@ Linux 환경에서 일반 사용자의 su 명령어 사용 여부, umask 값 이
 ##### 4. 일반 사용자의 Cron Tab 접근 권한 제한 점검
 ##### 5. SUID, SGID, Sticky Bit 설정 점검
 #
+
 ![Tool img](/assets/images/pj1-1.png)
-실제 구동 모습
+
+
 
