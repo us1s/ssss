@@ -45,8 +45,7 @@ author-name: us1s
 # URL for the Image of the Author
 author-image: /assets/images/userimg.jpg
 # 60 Words About the Author
-author-about: Find Exploit !7!7 
-#<br> HIGH : <br> MID :  web hacking, C, Python, Linux <br> LOW : powershell script, shell script, batch script, bootstrap, mysql, mongodb, ASA, paloalto, sniper IPS, pandas, reversing, php, html, css, ML, docker
+author-about: Find Exploit !7!7   HIGH :   MID : web hacking, C, Python, Linux   LOW : powershell script, shell script, batch script, bootstrap, mysql, mongodb, ASA, paloalto, sniper IPS, pandas, reversing, php, html, css, ML, docker
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://t.me/hojjijji
 
