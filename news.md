@@ -12,7 +12,7 @@ layout: page
 <button type="button" data-toggle="collapse" data-target="#demo">2022.03</button>
 
 <!--// 숨겨지는 영역 -->
-<div id="demo" class="collapse">
+  <div id="demo" class="collapse">
 
       ## 2022.03.26
 
