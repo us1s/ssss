@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://us1s.github.io'
+url: 'https://us1s.github.io/ssss'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: /
+baseurl: /ssss
 
 # Title of the Site
 title: us1s
